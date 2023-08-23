@@ -1,0 +1,19 @@
+
+! 2023-02-20 https://www.twitch.tv (Block that sidebar promoting idiotic streamers)
+www.twitch.tv##.side-nav__scrollable_content.simplebar-content
+www.twitch.tv##.prime-offers.bZVrjx.Layout-sc-1xcs6mc-0 > .crbrgc.Layout-sc-1xcs6mc-0 .dVOhMf.InjectLayout-sc-1i43xsx-0 .fsJutT.ScButtonIcon-sc-9yap0r-0.ibtYyW.ScCoreButton-sc-ocjdkq-0 > .bxQRSJ.ButtonIconFigure-sc-1emm8lf-0 > .cMWGQu.ScIconLayout-sc-1q25cff-0 > .tw-aspect.hTTohL.ScAspectRatio-sc-18km980-1 > .dSicFr.ScIconSVG-sc-1q25cff-1 path
+
+! 2023-08-22 https://www.twitch.tv (useless bar)
+www.twitch.tv##.dhONRu.Layout-sc-1xcs6mc-0
+! 2023-08-22 https://www.twitch.tv (useless prime thing)
+www.twitch.tv##.top-nav__prime.hjmDKV.Layout-sc-1xcs6mc-0
+! 2023-08-22 https://www.twitch.tv (search suggesstiosn)
+www.twitch.tv##.cdwkma.Layout-sc-1xcs6mc-0
+
+
+
+
+! 2023-08-22 https://www.twitch.tv(tags)
+www.twitch.tv##.hVPOSx.InjectLayout-sc-1i43xsx-0
+! 2023-08-22 https://www.twitch.tv (home page)
+www.twitch.tv##.root-scrollable__wrapper.hUemkh.Layout-sc-1xcs6mc-0 > .wZVfj.Layout-sc-1xcs6mc-0
