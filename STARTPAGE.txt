@@ -1,0 +1,21 @@
+! 2023-08-23 https://www.startpage.com
+www.startpage.com##.ay-eo-tpcl--.ay-eo-tpcl:has-text(/Related searches/i)
+!Search suggestions
+www.startpage.com##.css-50jcdb.suggested-search-container
+
+! 2023-08-23 https://www.startpage.com
+www.startpage.com##.css-k54ldh:has-text(/News/i)
+!social links
+www.startpage.com##.sx-kp-social-links
+!movies
+www.startpage.com##.sx-carousel-actor_credits.sx-carousel
+
+! 2023-08-23 https://www.startpage.com (related searches)
+www.startpage.com##.ay-eo-tpcl--device.ay-eo-tpcl
+
+! 2023-08-23 https://www.startpage.com (get rid of any result containing word twitter)
+www.startpage.com##.w-gl__result__main:has-text(/twitter/i)
+
+
+! 2023-02-10 https://www.startpage.com
+www.startpage.com##div:nth-of-type(4) > .css-zezfv1 > .css-k54ldh
