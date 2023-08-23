@@ -1,0 +1,82 @@
+!reddit rules -------------------------------------------------------------------------------------------------------------------------------------------------
+! 2023-07-21 https://www.reddit.com (Search sugesstions)
+www.reddit.com##._3MnH55IylwBZcJD46S4KFO._4y0ErgWHnHg-LqPeQoYKE._2JmouYbCEI5jhxWIp44V_6.UQphgTZz-YLqJ1AJuwqmi._2uYY-KeuYHKiwl-9aF0UiL
+! 2023-07-21 https://www.reddit.com (the create your pixel thing, I just dont really care about it)
+www.reddit.com##.no2pS2p1GomZL7au3GeF._3dZnYgFFpifT-M_Vs2FAq6
+! 2023-07-21 https://www.reddit.com (popular button)
+www.reddit.com##a._3dZnYgFFpifT-M_Vs2FAq6:nth-of-type(1)
+! 2023-07-21 https://www.reddit.com (Communities tab)
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(4)
+! interest in the communirt shoved up in ur face bs
+reddit.com##.rpBJOHq2PR60pnwJlUyP0 > div > div:has-text(/shown interest in this community/i)
+! 2023-07-21 https://www.reddit.com (popular on reddit right now)
+www.reddit.com##.rpBJOHq2PR60pnwJlUyP0 > div > div:has-text(/popular on reddit right now/i)
+!Because you visited this community before
+www.reddit.com##.rpBJOHq2PR60pnwJlUyP0 > div > div:has-text(/Because you visited this community before/i)
+! 2023-07-21 https://www.reddit.com (/Similar to r/subreddit)
+www.reddit.com##.rpBJOHq2PR60pnwJlUyP0 > div > div:has-text(/Similar to r//i)
+! 2023-07-21 https://www.reddit.com (interest in a similar community)
+www.reddit.com##.rpBJOHq2PR60pnwJlUyP0 > div > div:has-text(/shown interest in/i)
+! 2023-07-21 https://www.reddit.com (the amount of comments) (home page)
+www.reddit.com##._2qww3J5KKzsD7e5DO0BvvU._3U_7i38RDPV5eBv7m4M-9J._1Hw7tY9pMr-T1F4P1C-xNU._1UoeAeSRhOKSNdY_h3iS1O
+! 2023-07-21 https://www.reddit.com (upvote/downvote) (home page)
+www.reddit.com##.uFwpR-OdmueYZxdY_rEDX._2oM1YqCxIwkvwyeZamWwhW._1E9mcoVn4MYnuBQSVDt1gC
+! 2023-07-21 https://www.reddit.com (Votes) (on the page of the post itself)
+www.reddit.com##._15Igkrvvp7jIfVHt0eKzFd._2oM1YqCxIwkvwyeZamWwhW._1E9mcoVn4MYnuBQSVDt1gC
+! 2023-07-21 https://www.reddit.com (the amount of comments)  (on the page of the post itself)
+www.reddit.com##._2qww3J5KKzsD7e5DO0BvvU._3U_7i38RDPV5eBv7m4M-9J._3m17ICJgx45k_z-t82iVuO._1UoeAeSRhOKSNdY_h3iS1O
+! 2023-07-21 https://www.reddit.com (upvote/downvote on the COMMENTS)
+www.reddit.com##._1ewTEGuogtFmDvDII2T2Yy._2oM1YqCxIwkvwyeZamWwhW._1E9mcoVn4MYnuBQSVDt1gC
+! 2023-07-21 https://www.reddit.com (upvote/downvote on the posts) (home page)
+www.reddit.com##._1E9mcoVn4MYnuBQSVDt1gC
+! 2023-07-21 https://www.reddit.com (recent posts tab)
+www.reddit.com##._3Im6OD67aKo33nql4FpSp_:has-text(/recent posts/i)
+! 2023-07-21 https://www.reddit.com (the popular dropdown tab on home page)
+www.reddit.com###focus-Popular
+! 2023-07-21 https://www.reddit.com (the All dropdown tab on home page)
+www.reddit.com###focus-All
+! 2023-07-21 https://www.reddit.com (the Premium dropdown tab on home page)
+www.reddit.com###focus-Premium
+! 2023-07-21 https://www.reddit.com (the Avatar dropdown tab on home page)
+www.reddit.com###focus-Avatar
+! 2023-07-21 https://www.reddit.com (Moderator of this community) (user page)
+www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._3thndRe559UZy14xE1gZ_:has-text(Moderator of)
+! 2023-07-21 https://www.reddit.com (points)
+www.reddit.com##span._3_GZIIN1xcMEC5AVuv4kfa._2ETuFsVzMBxiHia6HfJCTQ:has-text(/points/i)
+! 2023-07-21 https://www.reddit.com (Communities tab on search page)
+www.reddit.com##div.DpriHZnFiOfa0afZpg8vf:has-text(communities)
+! 2023-07-21 https://www.reddit.com (People tab on search page)
+www.reddit.com##div.DpriHZnFiOfa0afZpg8vf:has-text(/people/i)
+! 2023-07-21 https://www.reddit.com (post info such as upvotes and comment count on search page)
+www.reddit.com##span._vaFo96phV6L5Hltvwcox
+! 2023-07-21 https://www.reddit.com (comments, communities, and people tab on search page)
+www.reddit.com##._1g3g98ViMb36cM-peU17Jk._2jNQT-6WbFOjX2hdDWV56w.cmR5BF4NpBUm3DBMZCmJS:has-text(Comments)
+www.reddit.com##._1g3g98ViMb36cM-peU17Jk._2jNQT-6WbFOjX2hdDWV56w.cmR5BF4NpBUm3DBMZCmJS:has-text(Communities)
+www.reddit.com##._1g3g98ViMb36cM-peU17Jk._2jNQT-6WbFOjX2hdDWV56w.cmR5BF4NpBUm3DBMZCmJS:has-text(People)
+!relarted subreddits on subreddit page
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV:has-text(/related subreddits/i)
+! remove automoderator
+reddit.com##[href="/user/AutoModerator/"]:upward(.Comment)
+! block yellow daily award
+www.reddit.com##._1dJtiWITrnvIbQdXgYgdym.jEUbSHJJx8vISKpWirlfx
+! Block downloading for RPAN live streams (cosmetic and static)
+||redd.it/*.m3u8^$xhr,domain=reddit.com||strapi.reddit.com^$xhr,domain=reddit.com
+! 2023-07-21 https://www.reddit.com (On search resuls block any posts containing word "dwadaf")
+www.reddit.com##._2dkUkgRYbhbpU_2O2Wc5am:has-text(dwadaf)
+! 2023-07-21 https://www.reddit.com (on home page AND subreddit page, block any posts containing the word "dwadaf")
+www.reddit.com##._1Qs6zz6oqdrQbR7yE_ntfY._11R7M_VOgKO1RJyRSRErT3._1poyrkZ7g36PawDueRza-J:has-text(/dwadaf/i)
+! 2023-07-21 https://www.reddit.com (top posts on reddit, located in any subreddit page)
+www.reddit.com##._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV._2YJDRz5rCYQfu8YdgB_neb:has-text(/top posts/i)
+! 2023-07-21 https://www.reddit.com ("r/place is live in notifications tab")
+www.reddit.com##._2prSjBmU3TS_Liup8DFR-2
+! 2023-07-21 https://www.reddit.com (the sidebar of the home page)
+www.reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
+! 2023-07-21 https://www.reddit.com (the explore dropdown tab, along with the button link) [both rules]
+www.reddit.com##.f8nXLisWxOYzMMl1uIAP3:has-text(/explore/i)
+www.reddit.com##div > button.GCltVwsXPu5lE-gs4Nucu._3fbofimxVp_hpVM6I1TGMS:nth-of-type(2)
+!start of blocking words on reddit------------------------------------------------------------------------
+!www.reddit.com##._2dkUkgRYbhbpU_2O2Wc5am:has-text(dwadaf)
+!www.reddit.com##._1Qs6zz6oqdrQbR7yE_ntfY._11R7M_VOgKO1RJyRSRErT3._1poyrkZ7g36PawDueRza-J:has-text(/dwadaf/i)
+!end of blocking words on reddit ------------------------------------------------------------------------
+!So for, the only thing we aren't safe from is comment threads
+! END OF REDDIT RULES-----------------------------------------------------------------------------------------------------------------------------------------------------------
