@@ -56,7 +56,6 @@ dailymail.co.uk
 bbc.com
 espn.com
 yahoo.com
-
 https://www.hollywoodreporter.com
 https://www.vanityfair.com
 https://www.nationalgeographic.com
@@ -107,8 +106,6 @@ https://www.taipeitimes.com
 https://www.yenisafak.com
 https://www.saudigazette.com.sa
 https://www.elpais.com
-
-
 https://www.jpost.com
 https://www.rt.com
 https://www.themoscowtimes.com
