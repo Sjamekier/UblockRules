@@ -1,6 +1,3 @@
-
-www.startpage.com##.w-gl__result__main:has-text(/messi/i)
-
 www.startpage.com##.w-gl__result__main:has-text(/2pac/i)
 www.startpage.com##.w-gl__result__main:has-text(/4chan/i)
 www.startpage.com##.w-gl__result__main:has-text(/a date/i)
