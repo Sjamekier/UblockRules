@@ -13,8 +13,6 @@ www.startpage.com##.sx-carousel-actor_credits.sx-carousel
 ! 2023-08-23 https://www.startpage.com (related searches)
 www.startpage.com##.ay-eo-tpcl--device.ay-eo-tpcl
 
-! 2023-08-23 https://www.startpage.com (get rid of any result containing word twitter)
-www.startpage.com##.w-gl__result__main:has-text(/twitter/i)
 
 
 ! 2023-02-10 https://www.startpage.com
