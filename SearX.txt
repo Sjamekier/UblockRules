@@ -623,8 +623,6 @@ searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/forestwhitaker
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/fortnite/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/fox news/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/foxnews/i)
-searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/francesco cura'/i)
-searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/francescocura'/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/frank sepe/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/franklin d. roosevelt/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/franklind.roosevelt/i)
