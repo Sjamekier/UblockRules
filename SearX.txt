@@ -528,8 +528,6 @@ searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/dwayne"therock
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/dwaynejohnson/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/dylan mulv/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/dylan mulvaney/i)
-searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/dylan o'brien/i)
-searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/dylano'brien/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/eat the rich/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/eattherich/i)
 searx.be,331221.xyz,nyc1.sx.ggtyler.dev##article.result:has-text(/economist.com/i)
